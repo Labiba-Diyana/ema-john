@@ -1,0 +1,26 @@
+.products-name{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 25px;
+    
+}
+
+.cart p{
+    font-size: 17px;
+}
+.grand-total{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 30px;
+}
+
