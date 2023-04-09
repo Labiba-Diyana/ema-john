@@ -36,14 +36,14 @@
 }
 
 .btn-delete {
-    border: 1px solid rgba(235, 87, 87, 0.3);
-    /* border: none; */
+    /* border: 1px solid rgba(235, 87, 87, 0.3); */
+    border: none;
     height: 55px;
     width: 55px;
     border-radius: 50%;
     background-color: rgba(235, 87, 87, 0.3);
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
 }
 
@@ -51,4 +51,8 @@
     color: #EB5757;
     font-size: 27.5px;
     
+}
+
+.review-item button:hover{
+    border: 2px solid brown;
 }
